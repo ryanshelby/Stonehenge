@@ -13,6 +13,8 @@
 		47CEEC9E19E1A84500872B1E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47CEEC9D19E1A84500872B1E /* Images.xcassets */; };
 		47CEECA119E1A84500872B1E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 47CEEC9F19E1A84500872B1E /* LaunchScreen.xib */; };
 		47CEECAD19E1A84500872B1E /* StonehengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47CEECAC19E1A84500872B1E /* StonehengeTests.swift */; };
+		47CEECB719E1A86500872B1E /* green2.png in Resources */ = {isa = PBXBuildFile; fileRef = 47CEECB619E1A86500872B1E /* green2.png */; };
+		47CEECB919E1A87600872B1E /* rock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47CEECB819E1A87600872B1E /* rock.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		47CEECA619E1A84500872B1E /* StonehengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StonehengeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		47CEECAB19E1A84500872B1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		47CEECAC19E1A84500872B1E /* StonehengeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StonehengeTests.swift; sourceTree = "<group>"; };
+		47CEECB619E1A86500872B1E /* green2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green2.png; sourceTree = "<group>"; };
+		47CEECB819E1A87600872B1E /* rock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rock.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 		47CEEC9319E1A84500872B1E /* Stonehenge */ = {
 			isa = PBXGroup;
 			children = (
+				47CEECB819E1A87600872B1E /* rock.jpg */,
+				47CEECB619E1A86500872B1E /* green2.png */,
 				47CEEC9619E1A84500872B1E /* AppDelegate.swift */,
 				47CEEC9819E1A84500872B1E /* ViewController.swift */,
 				47CEEC9A19E1A84500872B1E /* Main.storyboard */,
@@ -192,6 +198,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47CEECB719E1A86500872B1E /* green2.png in Resources */,
+				47CEECB919E1A87600872B1E /* rock.jpg in Resources */,
 				47CEEC9C19E1A84500872B1E /* Main.storyboard in Resources */,
 				47CEECA119E1A84500872B1E /* LaunchScreen.xib in Resources */,
 				47CEEC9E19E1A84500872B1E /* Images.xcassets in Resources */,
